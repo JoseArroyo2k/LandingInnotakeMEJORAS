@@ -98,8 +98,8 @@ const Contact: React.FC = () => {
     {
       icon: Phone,
       label: 'Teléfono',
-      value: '+51 917 425 215',
-      description: 'Lun - Vie: 9:00 AM - 6:00 PM'
+      value: '+51 997 499 682',
+      description: 'Lun - Sab: 9:00 AM - 8:00 PM'
     },
     {
       icon: Mail,
@@ -191,7 +191,7 @@ const Contact: React.FC = () => {
                 Escríbenos directamente y recibe respuesta inmediata sobre tu proyecto.
               </p>
               <motion.a
-                href="https://wa.me/51917425215?text=Hola, me interesa conocer más sobre los servicios de InnoTake"
+                href="https://wa.me/51997499682?text=Hola Innotake, me interesa conocer más sobre los servicios que ofrecen"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center space-x-2 bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors"
